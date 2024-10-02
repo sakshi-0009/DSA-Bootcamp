@@ -1,10 +1,10 @@
 //Print whether prime number or not
 
-// package ForLoop;
+package ForLoop;
 
 import java.util.Scanner;
 
-class Prime {
+public class Prime {
 
 	public static void main(String[] args) {
 		
