@@ -1,6 +1,6 @@
 //Print whether prime number or not
 
-package ForLoop;
+package Control_Statements;
 
 import java.util.Scanner;
 
